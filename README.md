@@ -1,22 +1,18 @@
 # Two-City-Comparison-Tool
 
-The purpose of any project is to collaborate with a group of peers to create an application that solves a real-world problem. In this project, our group members were tasked with creating a real-world front-end application that we will be showcasing to potential employers. In order to meet the project requirements:
-* styling was made through the CSS Framework Materialize
-* the project is deployed to GitHub Pages
-* the web application accepts and responds to user input
-* Google Maps, CovidActNow, OpenWeather APIs were used
-* modals were implemented to serve as an error message
-* client-side storage was made to save the city in the search input
+## Description
+
+Two-City-Comparison-Tool is a front-end application that allows the user to compare two cities of their choosing by accessing data related to maps, weather, Covid-19, and jobs. These points of reference were made possible by using the Google Maps, CovidActNow, and OpenWeather APIs.
 
 ## User Story
 
 ```
-AS A software developer looking for a job in various cities
+AS A software developer looking for a job in various cities,
 I WANT to be able to compare data of two cities on one website
-SO THAT I can make an educated decision regarding my job search
+SO THAT I can make an educated decision regarding my job search.
 ```
 
-## Acceptance Criteria
+## Features
 
 ```
 GIVEN a comparison tool with two city inputs and checkboxes for select data
@@ -40,14 +36,26 @@ WHEN I leave a input field blank after the initial search
 THEN I continue to see the last searched city data on the page
 ```
 
-## Presentation Link
+## Usage
 
-[Project #1 Presentation Slides](https://docs.google.com/presentation/d/1i9GAnpjJ5feEp__Zp6oCg5pia-xnEjDgVD0KYEqoqqM/edit?usp=sharing)
+The following link will direct you to the deployed application:
 
-## Screenshot
+[Two-City Comparison Tool](https://pgandhi21.github.io/Two-City-Comparison-Tool/)
+
+A screenshot of the deployed application:
 
 ![Two-City Comparison Tool](/assets/images/screenshot.png)
 
-## GitHub Pages Link
+Presentation Slides:
 
-[Two-City Comparison Tool](https://pgandhi21.github.io/Two-City-Comparison-Tool/)
+[Project Presentation Slides](https://docs.google.com/presentation/d/1i9GAnpjJ5feEp__Zp6oCg5pia-xnEjDgVD0KYEqoqqM/edit?usp=sharing)
+
+## Contributing
+
+Please contact me or my team members. Thank you!
+
+[Bindubahen Vaghela](https://github.com/bindi-v), [Noah Blackman](https://github.com/blackman3178), [Preksha Gandhi](https://github.com/Pgandhi21)
+
+## Questions
+
+If you have any questions about the repo, open an issue or contact me directly at abrahamin.html@gmail.com. You can find more of my work at [https://github.com/abrahamin/](https://github.com/abrahamin/).
